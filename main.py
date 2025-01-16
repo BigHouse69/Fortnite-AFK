@@ -34,7 +34,7 @@ class AFKBotInterface:
 
         # Arrastar a janela
         window_drag = WindowDragArea(
-            content=Text("AFK Bot Controller", weight="bold", size=16),
+            content=Text("AFK Bot", weight="bold", size=16),
             expand=True,
         )
 
